@@ -37,3 +37,10 @@ OOP implementation of Tic-Tac-Toe with Python. Focuses on clean class design and
 ## How to Run
 ```bash
 python tictactoe_demo.py
+
+## Example Usage
+
+`Player1 = Player("Alice", "X")
+Player2 = Player("Bob", "O")
+game = Game(Player1, Player2)
+game.play()`
