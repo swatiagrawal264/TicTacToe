@@ -40,7 +40,7 @@ python tictactoe_demo.py
 
 ## Example Usage
 
-`Player1 = Player("Alice", "X")
+Player1 = Player("Alice", "X")
 Player2 = Player("Bob", "O")
 game = Game(Player1, Player2)
-game.play()`
+game.play()
